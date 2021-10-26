@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bungeoppang
+* source:	https://sketchfab.com/3d-models/bungeoppang-faa8f9b40e87470493ede1c05f53096c
+* author:	Thomas Flynn (https://sketchfab.com/nebulousflynn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bungeoppang" (https://sketchfab.com/3d-models/bungeoppang-faa8f9b40e87470493ede1c05f53096c) by Thomas Flynn (https://sketchfab.com/nebulousflynn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
