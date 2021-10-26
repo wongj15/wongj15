@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rorsch Mk-1 Railgun
+* source:	https://sketchfab.com/3d-models/rorsch-mk-1-railgun-f08dedacfd704c4eb24c23632e1f56df
+* author:	3D only (https://sketchfab.com/ateamodels3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rorsch Mk-1 Railgun" (https://sketchfab.com/3d-models/rorsch-mk-1-railgun-f08dedacfd704c4eb24c23632e1f56df) by 3D only (https://sketchfab.com/ateamodels3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
